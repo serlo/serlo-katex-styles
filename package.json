@@ -1,0 +1,23 @@
+{
+  "name": "serlo-katex-styles",
+  "version": "1.0.0",
+  "description": "CSS styles for katex",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serlo/serlo-katex-styles.git"
+  },
+  "keywords": [
+    "css",
+    "katex"
+  ],
+  "author": "Serlo Education e.V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serlo/serlo-katex-styles/issues"
+  },
+  "homepage": "https://github.com/serlo/serlo-katex-styles#readme"
+}
