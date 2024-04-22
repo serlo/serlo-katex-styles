@@ -1,6 +1,7 @@
 {
-  "name": "serlo-katex-styles",
+  "name": "@serlo/katex-styles",
   "version": "1.0.0",
+  "private": false,
   "description": "CSS styles for katex",
   "main": "style.css",
   "scripts": {
