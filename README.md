@@ -1,11 +1,11 @@
 # serlo-katex-styles
 
-Serlo specific CSS styles for KaTeX
+Our custom CSS styles for KaTeX
 
 ## Installation
 
-`yarn add serlo-katex-styles`
+`yarn add @serlo/katex-styles`
 
 ## Usage
 
-`import 'serlo-katex-styles/styles.css'`
+`import '@serlo/katex-styles/styles.css'`
